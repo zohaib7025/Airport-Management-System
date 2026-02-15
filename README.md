@@ -48,8 +48,19 @@ It showcases the integration of **programming logic with database management** t
 ---
 
 ## 📸 Screenshots
-![HOME SCREEN](images/homepage.png)
+- **Home Page**
+
+![HOME SCREEN](images/Homepage.png)
+
+- **Admin Panel**
+
 ![ADMIN PANEL](images/Admin_panel.png)
+
+- **Client Panel**
+
 ![CLIENT PANEL](images/Client_panel.png)
-![FLIGHT SCHEDULE](images/menu.png)
+
+- **Flight Schedule**
+
+![FLIGHT SCHEDULE](images/flight_menu.png)
 ---
